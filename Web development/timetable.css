@@ -1,0 +1,25 @@
+td{
+	border-radius: 10px;
+	padding-left:  10px;
+	border-bottom: dotted;
+	border-bottom-width: 1px;
+	border-bottom-left-radius: 1px;
+	border-bottom-right-radius: 1px;
+	width: 10%;
+}
+
+table{
+	position: relative;
+	float: left;
+	height: 100%;
+	width: 80%;
+}
+#align{
+	text-align: left;
+	display: none;
+}
+th{
+	width: 5em;
+	
+
+}
